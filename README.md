@@ -4,7 +4,7 @@ Olá, meu nome é Ryan Victor, sou técnico em Desenvolvimento de Sistemas e tam
 Pude desenvolver também competências técnicas, tais como HTML5, CSS3, JAVASCRIPT, C#, SQL SERVER, PHP.
 # Conecte-se comigo
 <a href = "mailto:ryaanvreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ryanmarinho/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ryan-marinho/)
 # Estou aprimorando meus conhecimentos em:
 - <img alt="Ryan-HTML" height= "30" widht= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 - <img alt="Ryan-CSS" height= "30" widht= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
