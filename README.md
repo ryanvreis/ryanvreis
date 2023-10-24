@@ -14,7 +14,7 @@ Pude desenvolver também competências técnicas, tais como HTML5, CSS3, JAVA, C
 # GitHub Stats
 <div align="center">
   <a href="https://github.com/ryanvreis">
-  <img height= "180em"src= "https://github-readme-stats.vercel.app/api?username=ryanvreis&theme=vue&show_icons=true"/>
-  <img height= "180em"src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvreis&layout=compact&langs_count=7&theme=vue"/>
+  <img height= "180em"src= "https://github-readme-stats.vercel.app/api?username=ryanvreis&theme=black&show_icons=true"/>
+  <img height= "180em"src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvreis&layout=compact&langs_count=7&theme=black"/>
 </div>
 
