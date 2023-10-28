@@ -9,7 +9,7 @@ Pude desenvolver também competências técnicas, tais como HTML5, CSS3, JAVA, C
 - <img alt="Ryan-HTML" height= "30" widht= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 - <img alt="Ryan-CSS" height= "30" widht= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 - <img alt="Ryan-JAVA" height= "30" widht="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-- <img alt="Ryan-BootStrap" height= "30" widht= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+- <img alt="Ryan-Spring" height= "30" widht= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
 # GitHub Stats
 <div align="center">
