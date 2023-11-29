@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Ryan Victor
-Olá, meu nome é Ryan Victor, sou técnico em Desenvolvimento de Sistemas e também estudante de programação. No decorrer do meu curso técnico eu pude desenvolver habilidades interpessoais(soft skills) tais como: trabalhar em equipe, liderança, comunicação, capacidade de resolver problemas, resiliência, disciplina, etc.
-
-Pude desenvolver também competências técnicas, tais como HTML5, CSS3, JAVA, C#, SQL SERVER, PHP.
+Olá, meu nome é Ryan Victor, sou técnico em Desenvolvimento de Sistemas e também estudante de programação.
 # Conecte-se comigo
 <a href = "mailto:ryaanvreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ryan-marinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
