@@ -1,7 +1,7 @@
 ## Olá, mundo! Eu sou o Ryan Victor!! 👋
-Sou mineiro, tenho 19 anos e sou *Desenvolvedor Back-End*.
-  Técnico em Desenvolvimento de Sistemas, e atualmente 
-  estou dedicado em aprimorar minhas habilidades como desenvolvedor Java.
+Sou mineiro, tenho 19 anos e sou *Desenvolvedor Back-End*.<br>
+  Técnico em Desenvolvimento de Sistemas, e atualmente<br> 
+  estou dedicado em aprimorar minhas habilidades como desenvolvedor Java.<br>
   Estou cursando o curso Formação Java Web Full-Stack na JDev Treinamento.
 # Conecte-se comigo
 <a href = "mailto:ryaanvreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
