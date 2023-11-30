@@ -1,5 +1,8 @@
-## Olá! Eu sou o Ryan Victor
-Olá, meu nome é Ryan Victor, sou técnico em Desenvolvimento de Sistemas e também estudante de programação.
+## Olá, mundo! Eu sou o Ryan Victor!! 👋
+Sou mineiro, tenho 19 anos e sou *Desenvolvedor Back-End*.
+  Técnico em Desenvolvimento de Sistemas, e atualmente 
+  estou dedicado em aprimorar minhas habilidades como desenvolvedor Java.
+  Estou cursando o curso Formação Java Web Full-Stack na JDev Treinamento.
 # Conecte-se comigo
 <a href = "mailto:ryaanvreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ryan-marinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
