@@ -7,7 +7,7 @@ Sou mineiro, tenho 19 anos e sou *Desenvolvedor de software*.<br>
 # Estou aprimorando meus conhecimentos em:
 - <img alt="Ryan-HTML" height= "30" widht= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 - <img alt="Ryan-CSS" height= "30" widht= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-- <img alt="Ryan-TypeScript" height= "30" widht="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original-wordmark.svg" />
+- <img alt="Ryan-TypeScript" height= "30" widht="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 # GitHub Stats
 <div align="center">
