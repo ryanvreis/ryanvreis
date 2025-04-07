@@ -1,6 +1,6 @@
 ## Olá, mundo! Eu sou o Ryan Victor!! 👋
 Sou mineiro, tenho 21 anos e atuo como *Desenvolvedor de software* na empresa MyCore.<br>
-  Técnico em Desenvolvimento de Sistemas<br> e cursando Engenharia de Software pela Unopar.
+  Formado como técnico em Desenvolvimento de Sistemas pelo Senai e cursando Engenharia de Software pela Unopar.
 # Conecte-se comigo
 <a href = "mailto:ryaanvreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ryan-marinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
