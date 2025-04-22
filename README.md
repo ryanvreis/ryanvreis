@@ -5,7 +5,7 @@ Sou mineiro, tenho 21 anos e atuo como *Desenvolvedor de software* na empresa My
 <a href = "mailto:ryaanvreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ryan-marinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 # Estou aprimorando meus conhecimentos em:
-- <img alt="Ryan-NEXT.JS" height= "30" widht= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+- <img alt="Ryan-NEXT.JS" height= "30" widht= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 - <img alt="Ryan-REACT" height= "30" widht= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 - <img alt="Ryan-JavaScript" height= "30" width= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 - <img alt="Ryan-TypeScript" height= "30" widht="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
