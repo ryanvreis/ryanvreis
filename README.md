@@ -1,6 +1,9 @@
 ## Olá, mundo! Eu sou o Ryan Victor!! 👋
-Sou mineiro, tenho 21 anos e atuo como *Desenvolvedor de software* na empresa MyCore.<br>
-  Formado como técnico em Desenvolvimento de Sistemas pelo Senai e cursando Engenharia de Software pela Unopar.
+Mineiro, 21 anos, apaixonado por tecnologia desde moleque.
+Hoje atuo como Desenvolvedor de Software na MyCore, focado em front-end com React, TypeScript e Next.js.
+Formado como técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente cursando Engenharia de Software (EAD) pela UNOPAR.
+Já contribuí no desenvolvimento da plataforma BlackPass, onde implementei funcionalidades como carrosséis, sistema de cashless, gestão de estoque e muito mais.
+Buscando sempre evoluir como dev e como pessoa. 🚀
 # Conecte-se comigo
 <a href = "mailto:ryaanvreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ryan-marinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
