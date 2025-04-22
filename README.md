@@ -2,8 +2,8 @@
 Mineiro, 21 anos, apaixonado por tecnologia desde moleque.
 Hoje atuo como Desenvolvedor de Software na MyCore, focado em front-end com React, TypeScript e Next.js.
 Formado como técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente cursando Engenharia de Software (EAD) pela UNOPAR.
-Já contribuí no desenvolvimento da plataforma BlackPass, onde implementei funcionalidades como carrosséis, sistema de cashless, gestão de estoque e muito mais.
-Buscando sempre evoluir como dev e como pessoa. 🚀
+Já contribuí no desenvolvimento da plataforma BlackPass, onde implementei funcionalidades como carrosséis, sistema de cashless, gestão de estoque e muito mais.<br>
+Buscando sempre evoluir como dev e como pessoa, movido por desafios, pão de queijo e café.☕🧀🚀
 # Conecte-se comigo
 <a href = "mailto:ryaanvreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ryan-marinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
