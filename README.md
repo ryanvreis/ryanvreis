@@ -41,15 +41,4 @@ Buscando sempre evoluir como dev e como pessoa, movido por desafios, pão de que
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ryanvreis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvreis&theme=black&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvreis&layout=compact&langs_count=7&theme=black"/>
-  </a>
-</div>
-
----
-
 > “A jornada de mil linhas de código começa com o primeiro commit.” ✨
