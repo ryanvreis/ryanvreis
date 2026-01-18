@@ -1,8 +1,8 @@
 ## Olá, mundo! Eu sou o Ryan Victor!! 👋
 
-Mineiro, 21 anos, apaixonado por tecnologia desde moleque.<br>
+Mineiro, 22 anos, apaixonado por tecnologia desde moleque.<br>
 Atuo como Desenvolvedor de Software na MyCore, focado em front-end com React, TypeScript e Next.js.<br>
-Formado como técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente cursando Engenharia de Software (EAD) pela UNOPAR.<br>
+Formado como técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente cursando Engenharia de Software pela UNOPAR.<br>
 Já contribuí no desenvolvimento da plataforma [BlackPass](https://www.blackpass.com.br), onde implementei funcionalidades como carrosséis, sistema de cashless, gestão de estoque e muito mais.<br>
 Buscando sempre evoluir como dev e como pessoa, movido por desafios, pão de queijo e café. ☕️🥐🚀
 
