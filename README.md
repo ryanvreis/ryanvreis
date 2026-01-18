@@ -1,4 +1,4 @@
-## Olá, mundo! Eu sou o Ryan Victor!! 👋
+## Hello World! Eu sou o Ryan Victor!! 👋
 
 Mineiro, 22 anos, apaixonado por tecnologia desde moleque.<br>
 Atuo como Desenvolvedor de Software na MyCore, utilizo JavaScript, TypeScript e Next.js.<br>
