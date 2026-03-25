@@ -1,7 +1,6 @@
 ## Hello World! Eu sou o Ryan Victor!! 👋
 
-Mineiro, 22 anos, apaixonado por tecnologia desde moleque.<br>
-Atuo como Desenvolvedor de Software na MyCore, utilizo JavaScript, TypeScript e Next.js.<br>
+Atuo como Desenvolvedor de Software na MyCore, utilizo React, TypeScript e Next.js.<br>
 Formado como técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente cursando Engenharia de Software pela UNOPAR.<br>
 Atuei no desenvolvimento de diversos produtos digitais em ambiente corporativo, contribuindo para plataformas de grande porte e soluções completas de negócio.
 
